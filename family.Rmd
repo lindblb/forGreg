@@ -1,0 +1,76 @@
+---
+title: "Your family as a data frame"
+output:
+  html_document: default
+  pdf_document: default
+---
+
+## Libraries
+```{r}
+
+```
+
+## Create a data frame of your family
+
+Add:
+  - first name
+  - sex
+  - age
+  
+```{r}
+
+```
+
+## View it
+```{r}
+
+```
+
+## Now add another column that could describe your family members
+```{r}
+
+```
+
+
+## Combine first and last name?
+```{r}
+
+```
+
+
+## Split the data frame by a variable
+```{r}
+
+```
+
+```{r}
+
+```
+
+
+## Write to Excel spreadsheet
+```{r}
+
+```
+
+## Could we just copy paste data into R?
+```{r}
+# you betcha
+
+
+```
+
+```{r}
+
+```
+
+
+```{r}
+
+```
+
+## Now can we plot this?
+```{r}
+
+```
+
